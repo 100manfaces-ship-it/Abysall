@@ -1,7 +1,7 @@
 local Library = (Abysall.UILibrary == "Linoria" and "LinoriaLib" or "Obsidian")
 -- local BaseUrl = "https://raw.githubusercontent.com/mstudio45/" .. Library .. "/refs/heads/main/" -- broken since upio github got banned
 local BaseUrl = "https://raw.githubusercontent.com/deividcomsono/Obsidian/refs/heads/main/"
-local AbysallUrl = "https://raw.githubusercontent.com/arda201415/Abysall/refs/heads/main/"
+local AbysallUrl = "https://raw.githubusercontent.com/100manfaces-ship-it/Abysall/refs/heads/main/"
 
 local InterfaceUrls = {
   Library = BaseUrl .. "Library.lua",

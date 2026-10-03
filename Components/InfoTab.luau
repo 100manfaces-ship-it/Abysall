@@ -1,7 +1,7 @@
 return function(Window)
     local LatestChangelog = {
         "27/9/2026",
-        "<font color=\"rgb(0, 255, 0)\">+ Added Build the Pyramid support (Auto Block, Bench, Gifts, ESP)</font>",
+        "<font color=\"rgb(0, 255, 0)\">+ Added Scrappers ESP (In Visuals Tab)</font>",
     }
 
     local function CloneReference(Object)

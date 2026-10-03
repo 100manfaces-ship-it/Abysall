@@ -54,7 +54,7 @@ if GameData and GameData.Floor.Value ~= "Hotel" then
 		end
 
 		local QueueTeleport = queue_on_teleport or queueonteleport
-		QueueTeleport([=[loadstring(game:HttpGet("https://raw.githubusercontent.com/arda201415/Abysall/refs/heads/main/Scripts/DeathFarm.luau"))()]=])
+		QueueTeleport([=[loadstring(game:HttpGet("https://raw.githubusercontent.com/100manfaces-ship-it/Abysall/refs/heads/main/Scripts/DeathFarm.luau"))()]=])
 
 		SendCaption("Joining a run...")
 		RemotesFolder.CreateElevator:FireServer({
@@ -82,7 +82,7 @@ if game.PlaceId ~= 6839171747 then
 		end
 
 		local QueueTeleport = queue_on_teleport or queueonteleport
-		QueueTeleport([=[loadstring(game:HttpGet("https://raw.githubusercontent.com/arda201415/Abysall/refs/heads/main/Scripts/DeathFarm.luau"))()]=])
+		QueueTeleport([=[loadstring(game:HttpGet("https://raw.githubusercontent.com/100manfaces-ship-it/Abysall/refs/heads/main/Scripts/DeathFarm.luau"))()]=])
 
 		SendCaption("Joining a run...")
 		RemotesFolder.CreateElevator:FireServer({
